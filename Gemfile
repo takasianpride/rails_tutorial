@@ -39,7 +39,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara', '~> 2.2.0'
-
+  gem 'factory_girl_rails'
   # this line on OS X.
   gem 'growl'
 end
