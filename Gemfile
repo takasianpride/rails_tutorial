@@ -50,6 +50,7 @@ group :development, :test do
   gem 'sqlite3'
   # gem 'pg'
   gem 'rspec-rails'
+  gem 'rspec-its'
   gem 'guard'
   gem 'guard-rspec'
 end
